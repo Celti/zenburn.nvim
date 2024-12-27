@@ -13,5 +13,5 @@ return {
     require("zenburn.highlights.gitsigns"),
     require("zenburn.highlights.hydra"),
     require("zenburn.highlights.neotest"),
-    require("zenburn.highlights.render_markdown"),
+    require("zenburn.highlights.render-markdown"),
 }
